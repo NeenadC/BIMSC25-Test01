@@ -1,0 +1,27 @@
+div{
+    background-color: rgb(48, 48, 155);
+    padding: 10px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+#redDiv {
+    color: rgb(235, 18, 18);
+    margin-top: 60px;
+    height: 300px;
+    width: 250px;
+}
+
+.heading{
+    font-family: sans-serif;
+    font-weight: 600;
+    color: darkgreen;
+}
+
+body{
+margin: 10px;
+}
+
+.flexClass{
+    display: flex;
+}
